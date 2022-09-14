@@ -17,9 +17,11 @@ Fork & Clone this repo.
                  I want to be able to find songs based on the lyrics or song names
                  So that I can find songs easily and keep track of my favorite songs.
 2. Football Frenzy 
-    API:
-    User Story:
-3.
+    API: https://rapidapi.com/api-sports/api/api-football/
+    User Story: As a football fan
+                I want to be able to find all the latest news and stats on teams
+                So that I can stay up to date with the season
+
 ---------------------------------------------------------
 
 - [ ] Make a PR when you're done!
